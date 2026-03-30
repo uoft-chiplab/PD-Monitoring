@@ -5,7 +5,7 @@ import threading
 import json
 import os
 
-PORT = 'COM9'
+PORT = 'COM3'
 BAUD = 9600
 MAX_SENSORS = 6
 REF_VOLTAGE = 5.0
